@@ -1,0 +1,11 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\bin\Debug\netcoreapp2.0\Time-conversion.deps.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\bin\Debug\netcoreapp2.0\Time-conversion.runtimeconfig.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\bin\Debug\netcoreapp2.0\Time-conversion.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\bin\Debug\netcoreapp2.0\Time-conversion.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\bin\Debug\netcoreapp2.0\Time-conversion.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\obj\Debug\netcoreapp2.0\Time-conversion.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\obj\Debug\netcoreapp2.0\Time-conversion.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\obj\Debug\netcoreapp2.0\Time-conversion.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\obj\Debug\netcoreapp2.0\Time-conversion.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\obj\Debug\netcoreapp2.0\Time-conversion.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\21-01-2018\Time-conversion\Time-conversion\obj\Debug\netcoreapp2.0\Time-conversion.pdb
