@@ -1,4 +1,3 @@
-# 21-01-2018_Time-conversion
 Problem: https://www.hackerrank.com/challenges/time-conversion/problem
 
 Sample Input:
